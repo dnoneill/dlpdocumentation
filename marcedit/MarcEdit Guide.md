@@ -42,15 +42,14 @@ will make the cell appear in the following fashion: \$a [Title of Book]
 shows users how to import a txt file with preloaded fields while 8b
 shows users how to import fields manually.  The screenshots below are
 from a MacBook, MarcEdit with another operating system (i.e. Windows)
-might appear slightly different. ![](images/image16.png)
+might appear slightly different. ![](media/images/image16.png)
 
 1.  Open MarcEdit
 2.  Click on the Tools Menu
 3.  Choose Export Records
 4.  Choose Export Tab Delimited Records
 
-![The Mac
-Side:Users:cliccuser:Desktop:screenshots:002.png](images/image8.png)![](images/image2.png)
+![screenshots:002.png](media/images/image8.png)![](media/images/image2.png)
 
 Steps 2,3,4
 
@@ -61,8 +60,7 @@ Steps 2,3,4
 7.  Under Delimiter choose desired delimiter (comma, tab, pipe) (green
     arrow)
 
-![The Mac
-Side:Users:cliccuser:Desktop:screenshots:004.png](images/image10.png)![](images/image9.png)![](images/image5.png)![](images/image4.png)
+![screenshots:004.png](media/images/image10.png)![](media/images/image9.png)![](media/images/image5.png)![](media/images/image4.png)
 
 Steps 5,6,7
 
@@ -73,27 +71,23 @@ Steps 5,6,7
 
 1.  Click Settings
 
-![The Mac
-Side:Users:cliccuser:Desktop:screenshots:005.png](images/image11.png)![](images/image3.png)
+![screenshots:005.png](media/images/image11.png)![](media/images/image3.png)
 
 2.  Choose settings file you have already created and click open
 
-![The Mac
-Side:Users:cliccuser:Desktop:screenshots:007.png](images/image12.png)
+![screenshots:007.png](media/images/image12.png)
 
-![The Mac
-Side:Users:cliccuser:Desktop:screenshots:008.png](images/image13.png)
+![screenshots:008.png](media/images/image13.png)
 
 2.  Enter the field and subfield into the Field and Subfield boxes and
     click on the + button.  This has to be done for each field.
 
-![The Mac Side:Users:cliccuser:Desktop:Screen Shot 2016-10-13 at 5.05.40
-PM.png](images/image14.png)
+![Screen Shot 2016-10-13 at 5.05.40
+PM.png](media/images/image14.png)
 
 9.  Click Process
 
-![The Mac
-Side:Users:cliccuser:Desktop:screenshots:009.png](images/image15.png)![](images/image1.png)
+![screenshots:009.png](media/images/image15.png)![](media/images/image1.png)
 
 2.  Gathering Fields in Marc Records {#h.30j0zll style="display:inline"}
     ================================
@@ -112,8 +106,7 @@ software.  
 3.  Click on the File Menu
 4.  Choose Open
 
-![The Mac
-Side:Users:cliccuser:Desktop:screenshots:010.png](images/image17.png)
+![screenshots:010.png](media/images/image17.png)
 
 Steps 3 ,4
 
@@ -121,16 +114,14 @@ Steps 3 ,4
 
 5.  Choose the correct Marc record and Open
 
-![The Mac
-Side:Users:cliccuser:Desktop:screenshots:011.png](images/image20.png)
+![screenshots:011.png](media/images/image20.png)
 
 * * * * *
 
 6.  Choose the Reports Menu
 7.  Choose Field Count
 
-![The Mac
-Side:Users:cliccuser:Desktop:screenshots:012.png](images/image18.png)![](images/image2.png)
+![screenshots:012.png](media/images/image18.png)![](media/images/image2.png)
 
 Steps 6, 7
 
@@ -138,12 +129,11 @@ Steps 6, 7
 
 8.  Click on Generate Report
 
-![The Mac
-Side:Users:cliccuser:Desktop:screenshots:014.png](images/image19.png)![](images/image2.png)
+![screenshots:014.png](media/images/image19.png)![](media/images/image2.png)
 
 9.  Save to txt file. (Sample seen below)
 
-![](images/image21.png)
+![](media/images/image21.png)
 
 3.  MODS to CSV {#h.1fob9te style="display:inline"}
     ===========
@@ -171,16 +161,16 @@ MARC record into a CSV (Same as Section 1).
 1.  Open Tools \> Batch Process
     Records![C:\\Users\\dnoneill\\Desktop\\screenshots\\Screen Shot
     2016-11-16 at 5.02.08
-    PM.png](images/image22.png)![](images/image2.png)
+    PM.png](media/images/image22.png)![](media/images/image2.png)
 2.  Enter the directory containing the MODS files
 3.  Enter the file type of xml
 4.  Change the Function to
     MODS=\>MARC![C:\\Users\\dnoneill\\Desktop\\screenshots\\Screen Shot
-    2016-11-16 at 5.03.39 PM.png](images/image23.png)
+    2016-11-16 at 5.03.39 PM.png](media/images/image23.png)
 5.  Click Process
 
 ![C:\\Users\\dnoneill\\Desktop\\screenshots\\Screen Shot 2016-11-16 at
-5.03.56 PM.png](images/image24.png)
+5.03.56 PM.png](media/images/image24.png)
 
 Error Screen
 
@@ -194,14 +184,14 @@ on how to do so.
 1.  Open MARC Tools
 
 ![C:\\Users\\dnoneill\\Desktop\\screenshots\\Screen Shot 2016-11-16 at
-5.15.49 PM.png](images/image25.png)![](images/image2.png)
+5.15.49 PM.png](media/images/image25.png)![](media/images/image2.png)
 
 2.  Choose the correct input file (xml)
 3.  Enter Save file location.  Make sure the extension is mrc
 4.  Change Function List to MODS=\>MARC
 5.  Change Default Character Encoding to
     UTF8 ![C:\\Users\\dnoneill\\Desktop\\screenshots\\Screen Shot
-    2016-11-16 at 5.18.36 PM.png](images/image26.png)
+    2016-11-16 at 5.18.36 PM.png](media/images/image26.png)
 6.  Click Execute
 7.  Repeat with all MODS files
 
@@ -218,24 +208,24 @@ these records into one CSV file.
 1.  Click on MARCJoin
 
 ![C:\\Users\\dnoneill\\Desktop\\screenshots\\Screen Shot 2016-11-16 at
-5.15.49 PM.png](images/image25.png)![](images/image2.png)
+5.15.49 PM.png](media/images/image25.png)![](media/images/image2.png)
 
 2.  Enter the location of the combined file into Save File
 3.  Click on the folder icon next to File(s) to Join
 
 ![C:\\Users\\dnoneill\\Desktop\\screenshots\\Screen Shot 2016-11-16 at
-5.57.45 PM.png](images/image27.png)
+5.57.45 PM.png](media/images/image27.png)
 
 4.  Highlight the files to join
 5.  Click Open
 
 ![C:\\Users\\dnoneill\\Desktop\\screenshots\\Screen Shot 2016-11-16 at
-5.59.07 PM.png](images/image6.png)
+5.59.07 PM.png](media/images/image6.png)
 
 6.  Click Process
 
 ![C:\\Users\\dnoneill\\Desktop\\screenshots\\Screen Shot 2016-11-16 at
-5.59.29 PM.png](images/image7.png)
+5.59.29 PM.png](media/images/image7.png)
 
 4.  Convert Combined Marc To CSV (Same as Section 1) {#h.3dy6vkm style="display:inline"}
     ------------------------------------------------
@@ -245,8 +235,7 @@ these records into one CSV file.
 3.  Choose Export Records
 4.  Choose Export Tab Delimited Records
 
-![The Mac
-Side:Users:cliccuser:Desktop:screenshots:002.png](images/image8.png)
+![screenshots:002.png](media/images/image8.png)
 
 Steps 2,3,4
 
@@ -257,8 +246,7 @@ Steps 2,3,4
 7.  Under Delimiter choose desired delimiter (comma, tab, pipe) (green
     arrow)
 
-![The Mac
-Side:Users:cliccuser:Desktop:screenshots:004.png](images/image10.png)![](images/image9.png)![](images/image5.png)![](images/image4.png)
+![screenshots:004.png](media/images/image10.png)![](media/images/image9.png)![](media/images/image5.png)![](media/images/image4.png)
 
 Steps 5,6,7
 
@@ -269,24 +257,20 @@ Steps 5,6,7
 
 1.  Click Settings
 
-![The Mac
-Side:Users:cliccuser:Desktop:screenshots:005.png](images/image11.png)![](images/image3.png)
+![screenshots:005.png](media/images/image11.png)![](media/images/image3.png)
 
 2.  Choose settings file you have already created and click open
 
-![The Mac
-Side:Users:cliccuser:Desktop:screenshots:007.png](images/image12.png)
+![screenshots:007.png](media/images/image12.png)
 
-![The Mac
-Side:Users:cliccuser:Desktop:screenshots:008.png](images/image13.png)
+![screenshots:008.png](media/images/image13.png)
 
 2.  Enter the field and subfield into the Field and Subfield boxes and
     click on the + button.  This has to be done for each field.
 
-![The Mac Side:Users:cliccuser:Desktop:Screen Shot 2016-10-13 at 5.05.40
-PM.png](images/image14.png)
+![Screen Shot 2016-10-13 at 5.05.40
+PM.png](media/images/image14.png)
 
 9.  Click Process
 
-![The Mac
-Side:Users:cliccuser:Desktop:screenshots:009.png](images/image15.png)![](images/image1.png)
+![screenshots:009.png](media/images/image15.png)![](media/images/image1.png)
